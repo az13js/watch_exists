@@ -10,7 +10,7 @@
 
 或者`/usr/bin/perl`可执行文件存在，也可以
 
-    watch_exists.pl --watch=/file.txt --log=/tmp/watch.log --time=60
+    ./watch_exists.pl --watch=/file.txt --log=/tmp/watch.log --time=60
 
 参数：
 
